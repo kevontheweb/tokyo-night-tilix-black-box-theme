@@ -1,0 +1,25 @@
+{
+    "name": "Tokyo Night Storm",
+    "comment": "Theme that celebrates the lights of Downtown Tokyo at night.@chriskempson's base16 Twilight (dark variant)",
+    "use-theme-colors": false,
+    "foreground-color": "#a9b1d6",
+    "background-color": "#24283b",
+    "palette": [
+        "#1a1b26",
+        "#f7768e",
+        "#9ece6a",
+        "#e0af68",
+        "#7aa2f7",
+        "#bb9af7",
+        "#73daca",
+        "#a9b1d6",
+        "#565f89",
+        "#f7768e",
+        "#9ece6a",
+        "#e0af68",
+        "#7aa2f7",
+        "#bb9af7",
+        "#73daca",
+        "#cfc9c2"
+    ]
+}
