@@ -1,5 +1,5 @@
 # tokyo-night-tilix-black-box-theme
-tokyo night theme for Tilix/Black Box
+tokyo night theme for [Tilix](https://gnunn1.github.io/tilix-web/), [Black Box](https://flathub.org/apps/details/com.raggesilver.BlackBox), and other Tilix theme compatible terminals.
 
 to add these to BlackBox go to settings>terminal>theme>open folder and paste the .json files there
 
